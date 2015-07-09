@@ -1,14 +1,14 @@
-# Was ist Creaze?
+ï»¿# Was ist Creaze?
 
-Creaze erleichtert das oft zeitraubende Erstellen eines Dienstplans für Ministranten. 
+Creaze erleichtert das oft zeitraubende Erstellen eines Dienstplans fÃ¼r Ministranten. 
 Creaze erstellt auf Basis einer Liste von Ministranten und einer Liste von Gottesdiensten
-einen Dienstplan für die Ministranten. Einzelne Ministranten können als "Oberministranten"
-gekennzeichnet werden, zudem können Gruppen erstellt werden. Die Gruppen werden dann immer
-als ganze Gruppe eingeteilt (sofern möglich).
+einen Dienstplan fÃ¼r die Ministranten. Einzelne Ministranten kÃ¶nnen als "Oberministranten"
+gekennzeichnet werden, zudem kÃ¶nnen Gruppen erstellt werden. Die Gruppen werden dann immer
+als ganze Gruppe eingeteilt (sofern mÃ¶glich).
 
 Bei diesem Projekt handelt es sich nur um die Kern-Bibliothek (darum auch Creaze.Core :wink:).
-Eine erste, mit WPF erstellte, grafische Oberfläche wird bald als
-[Creaze.WPF](https://github.com/Creaze/Creaze.WPF) veröffentlicht. Bitte habt bis dahin noch
+Eine erste, mit WPF erstellte, grafische OberflÃ¤che wird bald als
+[Creaze.WPF](https://github.com/Creaze/Creaze.WPF) verÃ¶ffentlicht. Bitte habt bis dahin noch
 ein wenig Geduld.
 
 # Mitmachen
@@ -16,31 +16,35 @@ ein wenig Geduld.
 Jede Art der Mithilfe ist herzlich willkommen! Einfach das Repository
 [forken](https://github.com/Creaze/Creaze.Core/fork) und los geht's!
 
+Ã„nderungen am Quellcode sollten auÃŸer in AusnahmefÃ¤llen niemals direkt im master
+Branch erfolgen. Legt stets einen neuen Branch an, um Ã„nderungen oder ErgÃ¤nzungen
+im Code vorzunehmen.
+
 Da Creaze.Core in C# geschrieben ist, ist [Visual Studio](http://www.visualstudio.com)
-(VS) für die Programmierung (und vor allem das Kompilieren...) nötig. Dafür reicht die
-kostenlose 2010er Express-Edition für C# aus. Wenn Ihr zum Entwickeln eine neuere Version
+(VS) fÃ¼r die Programmierung (und vor allem das Kompilieren...) nÃ¶tig. DafÃ¼r reicht die
+kostenlose 2010er Express-Edition fÃ¼r C# aus. Wenn Ihr zum Entwickeln eine neuere Version
 von VS als VS 2010 verwendet, dann achtet bitte darauf, dass als Zielframework das
-.NET Framework 4.0 ausgewählt ist. Zudem sollen die Projekt-Dateien (.sln und .csproj)
-mit VS 2010 kompatibel bleiben. Das macht es leider erforderlich, dass Änderungen an den
-Projekt-Einstellungen von Hand in die Dateien aus dem Repo eingetragen werden müssen
-(mit einem Text-Editor). Hoffentlich finden wir dafür in Zukunft eine bessere Lösung...
+.NET Framework 4.0 ausgewÃ¤hlt ist. Zudem sollen die Projekt-Dateien (.sln und .csproj)
+mit VS 2010 kompatibel bleiben. Das macht es leider erforderlich, dass Ã„nderungen an den
+Projekt-Einstellungen von Hand in die Dateien aus dem Repo eingetragen werden mÃ¼ssen
+(mit einem Text-Editor). Hoffentlich finden wir dafÃ¼r in Zukunft eine bessere LÃ¶sung...
 
 ## Wiki
 
-Mithilfe beim Wiki ist natürlich auch eine super Sache. Das Wiki sollte die
+Mithilfe beim Wiki ist natÃ¼rlich auch eine super Sache. Das Wiki sollte die
 API-Dokumentation und ein paar Anwendungsbeispiele enthalten. Wenn Euch was Gutes
-einfällt, dann immer rein damit ins Wiki.
+einfÃ¤llt, dann immer rein damit ins Wiki.
 
 ## Sprache
 
 Auch wenn bis jetzt noch das meiste auf Deutsch ist, solltet Ihr darauf achten, dass
-Creaze in Zukunft auch auf Englisch übersetzt werden soll. Das bedeutet konkret, dass
+Creaze in Zukunft auch auf Englisch Ã¼bersetzt werden soll. Das bedeutet konkret, dass
 die Commit-Nachrichten **immer** auf Englisch verfasst werden und auch die Code-Doku in
 englischer Sprache erfolgen sollte. Ein mehrsprachiges Wiki hat noch niemanden geschadet,
-also hier ruhig auf Deutsch schreiben. Wenn Ihr mögt, dann gerne die deutschen Artikel
-auf Englisch übersetzen und umgekehrt.
+also hier ruhig auf Deutsch schreiben. Wenn Ihr mÃ¶gt, dann gerne die deutschen Artikel
+auf Englisch Ã¼bersetzen und umgekehrt.
 
 # Lizenz
 
 Creaze steht unter der [GNU GPLv2](http://www.gnu.org/licenses/old-licenses/gpl-2.0).
-Siehe auch [LICENSE](https://github.com/Creaze/Creaze.Core/LICENSE)
+Siehe auch [LICENSE](LICENSE)
