@@ -1,6 +1,8 @@
 ﻿/// This is part of the Creaze.Core project.
 /// 
-/// Copyright (c) 2015 Tobias Strunck <tobi1924@googlemail.com>
+/// Copyright (c) 2015 Creaze Team and/or contributors.
+/// 
+/// Author: Tobias Strunck
 /// 
 /// This program is free software; you can redistribute it and/or modify
 /// it under the terms of the GNU General Public License as published by
